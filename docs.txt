@@ -1,0 +1,5 @@
+first we have to create sections than after create template and call section in template 
+
+like this : {% section 'for-custom-page' %}
+
+than after select custom template on your shopify website page.
